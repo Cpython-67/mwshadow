@@ -5,7 +5,8 @@
     if CODs slow website throws it off, simply run it again
     I may finish this tool to check multiple accounts from a txt on different threads
     If you are interested in seeing this tool finished feel free to contact me on Discord @C_#9495
-    if package not found error, run pip install selenium -- crucial step if you are unfamiliar with python"""
+    if package not found error, run pip install selenium -- crucial step if you are unfamiliar with python
+    also download chromedriver.exe and ensure it is placed in C:/Program Files and is not renamed"""
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
